@@ -2,7 +2,7 @@
 const projects = [
     {
         name: 'Carbon footprint App',
-        description: 'A mobile application designed to calculate digital carbon footprint of users so as to aim for environmental conservation.',
+        description: 'I am currently working on a mobile application designed to calculate digital carbon footprint of users so as to aim for environmental conservation.',
         techStack: ['Flutter', 'Dart', 'Firebase'],
         githubLink: 'https://github.com/bobecheda/leafPrint.git',
         image: 'https://placehold.co/600x400'
@@ -11,7 +11,7 @@ const projects = [
         name: 'Portfolio Website',
         description: 'A personal portfolio website built with modern web technologies to showcase my projects and skills.',
         techStack: ['HTML', 'CSS', 'JavaScript'],
-        githubLink: '',
+        githubLink: 'https://github.com/bobecheda/My-Portfolio.git',
         image: 'https://placehold.co/600x400'
     },
 
